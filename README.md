@@ -1,7 +1,8 @@
- Solar Panel Design
+# Solar Panel Design
+## Overview
 This repository contains the 3D CAD model of a solar panel structure created in Autodesk Fusion 360. 
 
-Steps
+## Steps
   - Sketch
   - Extrusion
   - Patterning
